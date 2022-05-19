@@ -1,4 +1,4 @@
-# Microsoft-FRT-Project-personal-Portfolio-Website-deploymeny
+# Microsoft-FRT-Project-personal-Portfolio-Website-deployment
 Personal Portfolio Website Deployment Using Microsoft Azure-----
 This Project is Made By using Html, Css and  Javascript Progaramming languages.This reository contain a responsive web design website Represents a personal portfolio of a web developer
 which contains its project works he have completed .To open the project click on the project this takes you to a new tab .which shows my project work with its html css and javasript code.
