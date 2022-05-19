@@ -7,4 +7,4 @@ note- to view projects inn full screen create your codepen  account and view it 
 
 Languages used for website - Html,Css, Javascript.
 
-Deployment Enviorments - Github and Microsoft Azure.
+Deployment Enviorments - Github and Microsoft Azure web app services
